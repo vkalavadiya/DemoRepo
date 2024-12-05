@@ -5,7 +5,7 @@ public class Numbers {
         int a=10;
         int b=20;
         System.out.println(a+b);
-        System.out.println("Program is over");
+        System.out.println("Program is done");
 
     }
 }
